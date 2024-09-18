@@ -3,7 +3,9 @@
 ## Skills and Technologies
 
 ## Github Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=maxxrk&show_icons=true&theme=onedark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxxrk&layout=compact&theme=onedark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=maxxrk&show_icons=true&theme=onedark) 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxxrk&layout=compact&theme=onedark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maxxrk&theme=onedark)](https://git.io/streak-stats)
 <!--
